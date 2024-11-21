@@ -1,0 +1,7 @@
+rootProject.name = 'banking-demo-unitech'
+
+include 'ms-account'
+include 'ms-auth'
+include 'ms-currency'
+include 'ms-transfer'
+include 'ms-user'
